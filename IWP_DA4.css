@@ -1,0 +1,126 @@
+.head {
+    font-family: Calibri;
+    font-size: 40pt;
+    font-weight: bold;
+    color: DimGray;
+    text-align: center;
+    text-decoration: underline
+}
+.fieldset {
+    padding-top: 35px;
+    width: 40%;
+    Margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightblue;
+    border: solid 8px;
+    text-align: center;
+}
+.legend {
+    font-family: cursive;
+    background-color: whitesmoke;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+}
+input {
+    width: auto;
+}
+.button {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+#marks_head {
+    padding-left: 30%;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: brown;
+}
+
+.main {
+    padding-top: 35px;
+    width: 40%;
+    Margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightpink;
+    border: solid 4px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#output_head {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Roboto, Oxygen, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: brown;
+}
+.output_head {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Roboto, Oxygen, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+}
+hr{
+    border: 2px solid brown;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.success{
+    width:100%;
+    background-color:greenyellow;
+    font-family: Oxygen, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    height:70px;
+    border: 3px solid brown;
+    padding-top:20px;
+}
+.output_head_f{
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Roboto, Oxygen, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    text-align: center;
+}
+.final_table{
+    width:80%;
+    background-color:lightgray;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid brown;
+    padding-top: 10px;
+}
+.t_head{
+    color: whitesmoke;
+    background-color:rgb(128, 80, 9);
+    padding:10px;
+    
+}
+.t_data{
+    background-color:rgb(233, 201, 153);
+    text-align: center;
+}
+.slow{
+    width:100%;
+    background-color:rgb(238, 179, 17);
+    font-family: Oxygen, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    height:70px;
+    border: 3px solid brown;
+    padding-top:20px;
+}
